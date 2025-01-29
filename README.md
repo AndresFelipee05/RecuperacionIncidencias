@@ -1,0 +1,1 @@
+- En el archivo WinRAR encontrarás un proyecto desarrollado en Android Studio con Java. Este proyecto utiliza una base de datos SQLite para gestionar la persistencia de datos.
